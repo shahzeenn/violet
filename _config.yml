@@ -1,20 +1,21 @@
 # main text of home
-name: Jane Doe
-bio: A Girl who travels the world eating noodles
+name: Shahzeen Nasim
+bio: writer living in New York
 
 # twitter summary info
-description: A blog about technology and stuff related
+#description: 
 
-picture: assets/images/picture.jpg
+#picture: 
 
-url: http://koppl.in/violet
+url: http://shahzeenn.github.io
 # your url: http://USERNAME.github.io
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-github: mygithub
-email: me@jane.doe
+#facebook: myfacebook
+twitter: @__shahzeen
+#github: mygithub
+email: shahzeen.nasim@gmail.com
+instagram: @__shahzeen
 
 gems:
   - jekyll-seo-tag
